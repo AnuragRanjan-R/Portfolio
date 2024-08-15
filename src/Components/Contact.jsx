@@ -40,7 +40,7 @@ const Contact = () => {
             ></textarea>
 
             <button className="text-white bg-gradient-to-b from-pink-500 to-indigo-500 px-6 py-3 my-8 mx-auto flex items-center rounded-md hover:scale-110 duration-300">
-              Let's talk
+              Connect !
             </button>
           </form>
         </div>

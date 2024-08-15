@@ -1,4 +1,4 @@
-import Home from "./Components/home"
+import Home from "./Components/Home"
 import NavBar from "./Components/NavBar"
 import About from "./Components/About"
 import SocialLinks from "./Components/SocialLinks"
