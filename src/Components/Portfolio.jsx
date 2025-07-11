@@ -1,4 +1,5 @@
-import AmazonCard from '../assets/portfolio/AmazonCard.png';
+// import AmazonCard from '../assets/portfolio/AmazonCard.png';
+import YourBrand from "../assets/portfolio/yourBrand.png"
 import DiceGame from '../assets/portfolio/DiceGame.png';
 import DiceRoller from '../assets/portfolio/DiceRoller.png';
 import DesignAgency from '../assets/portfolio/DesignAgency.png';
@@ -8,8 +9,8 @@ const Portfolio = () => {
     const portfolios  = [
         {
             id: 1,
-            src: AmazonCard,
-            code: 'https://github.com/AnuragRanjan-R/AmzonCards',
+            src: YourBrand,
+            code: 'https://github.com/AnuragRanjan-R/YourBrand.Co',
         },
         {
             id: 2,
